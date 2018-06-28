@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514081513423",
+    "firebase_url": "https://fir-invites-test-6-28.firebaseio.com",
+    "project_id": "fir-invites-test-6-28",
+    "storage_bucket": "fir-invites-test-6-28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514081513423:android:49f3cc62065e4bd3",
+        "android_client_info": {
+          "package_name": "com.fric.speechplayback2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514081513423-l2csd5j6l3f8k4q1hra4r1lpesif9gdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fric.speechplayback2",
+            "certificate_hash": "e3c32ac045743a86ce1fef55088a461e09c9da5c"
+          }
+        },
+        {
+          "client_id": "514081513423-aaec5r3kaq6ro44s0uslpfjkci46dnhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdtP1LqwcnrSWDu2QIAdaXuvK9wOGD8Fk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514081513423-aaec5r3kaq6ro44s0uslpfjkci46dnhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
